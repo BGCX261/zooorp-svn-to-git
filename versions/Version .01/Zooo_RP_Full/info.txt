@@ -1,0 +1,14 @@
+"Gamemode"
+ {
+ 	"name"		"Zooo_RP_Full"
+ 	"version"	"0.1" 
+ 	"up_date"	"08/06/2009" // The date this version was published.
+ 
+ 	"author_name"	"Nathanel Keen"
+ 	"author_email"	"none"
+ 	"author_url"	"http://code.google.com/p/zooorp/"
+ 
+ 	"info"		"Zooo_RP_Light is a RP mod that aims to be better than all the rest."
+ 	"icon" 	 	"" // Icon to show in the Mods list inside Garry's Mod
+ 	"hide"		"0" // Do not hide this gamemode from the Mods list inside Garry's Mod
+  }
